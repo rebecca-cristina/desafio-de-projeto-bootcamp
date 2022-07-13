@@ -260,7 +260,9 @@ ________________________________________________________________________________
 
 **git pull** - puxar um arquivo do servidor
 
-**git remote rm origin** - estornar o link criado
+**git remote add origin <URL do GitHub>** - aponta para o repositório remoto que iremos enviar os arquivos
+
+**git remote rm origin <URL do GitHub>**  - estorna processo da inserção da URL informada
 
 **git clone <URL>** - clonar um repositório do servidor para o ambiente de desenvolvimento
 
