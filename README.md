@@ -4,7 +4,7 @@
 
 #### Seja bem vindo(a) !!
 
- Olá, espero que esteja bem ! Meu nome é Rebecca, e esse é o meu primeiro desafio da plataforma, onde estarei evidênciando meu progresso e listando algumas informações úteis !
+ Olá, espero que esteja bem ! Meu nome é Rebecca, e esse é o meu primeiro desafio da plataforma, onde estarei evidenciando meu progresso e listando algumas informações úteis !
 
 ###### :white_flower: :white_flower: :white_flower: :white_flower: :white_flower: :white_flower:
 
@@ -32,7 +32,7 @@ Nesse segundo link, contém uma série de exercícios onde os objetivos são de 
 
 3. [**Portugol**](https://portugol-webstudio.cubos.io/ide)
 
-Para os iniciantes, é necessário treinar contantemente e fixar bem a base da linguagem de programação, para começar a programar na linguagem desejada. 
+Para os iniciantes, é necessário treinar constantemente e fixar bem a base da linguagem de programação, para começar a programar na linguagem desejada. 
 
 A terceira indicação é de um programa chamado Portugol, onde se utiliza pseudolinguagem para escrever algoritmos e começar a imersão nesse mundo de programação.
 
