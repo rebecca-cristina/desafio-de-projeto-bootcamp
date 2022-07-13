@@ -8,7 +8,7 @@
 
 Forma de pensamento estruturada, que te auxilia a determinar a melhor sequência de ações para solucionar um problema.
 
-Considerando que temos um problema (desvio de percurso, o qual impede de atingir um objetivo com eficiência e eficácia), precisamos solucioná-lo da melhor maneira possível, utilizando de um seguimento planejado para tal, para isso, utilizaremos a:
+Considerando que temos um problema (desvio de percurso, o qual impede de atingir um objetivo com eficiência e eficácia), precisamos solucioná-lo da melhor maneira possível, utilizando de um segmento planejado para tal, para isso, utilizaremos a:
 
 - #### Decomposição
 
