@@ -93,7 +93,7 @@ Pode ser usado o E comercial (&), o ponto (.) ou o sinal de mais (+)
 
 Exemplo: primeiro_nome & sobrenome
 
-Concatenei a variável nome com  sobrenome, resultado: Maria Silva.
+Concatenei a variável nome com sobrenome, resultado: Maria Silva.
 
 #### Estrutura de repetição
 
