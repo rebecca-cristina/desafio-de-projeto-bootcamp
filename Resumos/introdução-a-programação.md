@@ -136,7 +136,7 @@ Representação em matrix:
 
 ​	**Nota [2] [1] = 10** //declara a segunda nota do aluno João (nota dois do aluno um)
 
-​	**Nota [1] [2] = 7 **//declara a primeira nota da aluna Maria (nota um do aluno dois)
+​	**Nota [1] [2] = 7**//declara a primeira nota da aluna Maria (nota um do aluno dois)
 
 ​	**Nota [2] [2] = 9** //declara a segunda nota da aluna Maria (nota dois do aluno dois)
 
