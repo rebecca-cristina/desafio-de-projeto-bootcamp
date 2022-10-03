@@ -112,9 +112,9 @@ Dado o estado de uma pessoa ou uma coisa, existe uma condição para aquilo acon
 | É utilizada a palavra reservada **se**, a condição a ser testada entre parenteses e as instruções que devem ser executados entre chaves caso o desvio seja **verdadeiro.** | Agora, vamos imaginar que se a condição for **falsa**, um outro conjunto de comandos deve ser executado. | Similar aos comandos se e senão, e reduz a complexidade na escolha de diversas opções. Neste comando não é possível o uso de operadores lógicos, ele apenas trabalha com valores definidos. |
 | Exemplo: **Se** essa condição for verdadeira, execute tal função. | Exemplo: **Se** essa condição for verdadeira, execute tal função, **Senão** execute essa outra. | Exemplo: Temos as opções 1 e 2. **Caso** a opção escolhida seja a 1ª, execute tal função. **Caso** seja a segunda, execute outra função. **Caso contrário** (onde não foi escolhido uma das duas opções), volte ao menu. |
 
-#### Matrix
+#### Matriz
 
-Matrix é uma coleção de variáveis do mesmo tipo, acessíveis com um único nome e armazenados contiguamente na memória. 
+Matriz é uma coleção de variáveis do mesmo tipo, acessíveis com um único nome e armazenados contiguamente na memória. 
 
 Tabela organizada em linhas e colunas no formato MxN, onde M representa o número de linhas (horizontal), e N o número de colunas (vertical).
 
@@ -130,7 +130,7 @@ Exemplo:
 
 ​	Temos os alunos José [1] e Maria [2].  José tirou nota 5 na primeira prova [1] e 10 na segunda [2], já Maria tirou 7 na primeira [1] e 9 na segunda [2].
 
-Representação em matrix:
+Representação em matriz:
 
 ​	**Nota [1] [1] = 5** //declara a primeira nota do aluno João (nota um do aluno um)
 
